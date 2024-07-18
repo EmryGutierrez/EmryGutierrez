@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello! 👋
+
+I'm currently learning machine learning and image recognition via pyTorch! 🔥
+I'm working on side projects for my lab position! 🥽
 
 <!--
 **EmryGutierrez/EmryGutierrez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
